@@ -1,0 +1,15 @@
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\bin\Debug\net6.0\Distance  Converter.exe
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\bin\Debug\net6.0\Distance  Converter.deps.json
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\bin\Debug\net6.0\Distance  Converter.runtimeconfig.json
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\bin\Debug\net6.0\Distance  Converter.dll
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\bin\Debug\net6.0\Distance  Converter.pdb
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\Distance  Converter.csproj.AssemblyReference.cache
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\Distance  Converter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\Distance  Converter.AssemblyInfoInputs.cache
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\Distance  Converter.AssemblyInfo.cs
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\Distance  Converter.csproj.CoreCompileInputs.cache
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\Distance  Converter.dll
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\refint\Distance  Converter.dll
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\Distance  Converter.pdb
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\Distance  Converter.genruntimeconfig.cache
+E:\Desktop\Uni work\Sem 2\Application Programming\App01 Distance Converter\Distance  Converter\Distance  Converter\obj\Debug\net6.0\ref\Distance  Converter.dll
